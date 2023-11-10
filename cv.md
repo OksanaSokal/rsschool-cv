@@ -41,3 +41,8 @@ if (age>=18) {
 
 - [Loan calculator](https://oksanasokal.github.io/calculator/)
 - [COMU project](https://oksanasokal.github.io/project-COMU/)
+
+## Languages
+
+- English - B1
+- Russian - native speaker
